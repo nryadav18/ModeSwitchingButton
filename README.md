@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size:40px;">Nike Shoe Slider</h1>
-<h3 align="center">Connecting People over the Music!</h3>
+<h1 align="center" style="font-size:40px;">Mode Switching Button</h1>
+<h3 align="center">Toggling the Switching Button to change the Mood (Day and Night Modes)</h3>
 
 ---
 
